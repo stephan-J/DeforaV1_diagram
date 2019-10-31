@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-31T07:57:42.500Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="2cU2YesiHgmUKfuDqzvy" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-31T08:06:38.157Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="-Eg4xsBE1ckJKkf_qSbS" version="12.1.9" type="github" pages="1">
   <diagram id="iVBrVuX85I9QnLTii-u7" name="Page-1">
     <mxGraphModel dx="1395" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -254,6 +254,20 @@
         </mxCell>
         <mxCell id="mDaE95jJYX9bUfQvgHxZ-83" value="forum_id&#xa;topic_id&#xa;proposal_id" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=middle;resizable=0;rotatable=0;part=1;horizontal=1;" parent="mDaE95jJYX9bUfQvgHxZ-82" vertex="1">
           <mxGeometry y="70" width="160" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="wHUoQSrmMuq2GCrvSGUu-38" value="deadline_topics" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#008cff;fontColor=#FFFFFF;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="28" y="2000" width="200" height="150" as="geometry">
+            <mxRectangle x="40" y="120" width="120" height="30" as="alternateBounds"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHUoQSrmMuq2GCrvSGUu-39" value="id" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=2;" vertex="1" parent="wHUoQSrmMuq2GCrvSGUu-38">
+          <mxGeometry y="30" width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="wHUoQSrmMuq2GCrvSGUu-40" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=12;html=0;" vertex="1" parent="wHUoQSrmMuq2GCrvSGUu-38">
+          <mxGeometry y="60" width="200" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="wHUoQSrmMuq2GCrvSGUu-43" value="forumId&#xa;forumKind&#xa;topicId&#xa;deadline" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=bottom;resizable=0;rotatable=0;part=1;horizontal=1;spacing=2;spacingBottom=3;" vertex="1" parent="wHUoQSrmMuq2GCrvSGUu-38">
+          <mxGeometry y="70" width="200" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
