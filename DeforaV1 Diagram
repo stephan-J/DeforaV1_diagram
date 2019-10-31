@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-31T06:25:09.086Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="AMKXf9xNb_4r8mD2VRYC" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-31T06:26:50.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="EZ_OeN8V_qKvl_P_IbZc" version="12.1.9" type="github" pages="1">
   <diagram id="iVBrVuX85I9QnLTii-u7" name="Page-1">
     <mxGraphModel dx="1395" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -11,32 +11,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mDaE95jJYX9bUfQvgHxZ-15" value="forum_id" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#008cff;fontColor=#FFFFFF;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="160" height="250" as="geometry">
+          <mxGeometry x="300" y="40" width="200" height="250" as="geometry">
             <mxRectangle x="40" y="120" width="120" height="30" as="alternateBounds"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="mDaE95jJYX9bUfQvgHxZ-29" value="invitation" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=2;" vertex="1" parent="mDaE95jJYX9bUfQvgHxZ-15">
-          <mxGeometry y="30" width="160" height="40" as="geometry"/>
+          <mxGeometry y="30" width="200" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="mDaE95jJYX9bUfQvgHxZ-24" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=12;html=0;" vertex="1" parent="mDaE95jJYX9bUfQvgHxZ-15">
-          <mxGeometry y="70" width="160" height="10" as="geometry"/>
+          <mxGeometry y="70" width="200" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="mDaE95jJYX9bUfQvgHxZ-16" value="forum_title&#xa;description&#xa;forum_type&#xa;timestamp&#xa;organizer&#xa;realtimeVoice&#xa;randomIcon&#xa;topicCount&#xa;userList" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=bottom;resizable=0;rotatable=0;part=1;horizontal=1;spacingBottom=3;" vertex="1" parent="mDaE95jJYX9bUfQvgHxZ-15">
-          <mxGeometry y="80" width="160" height="170" as="geometry"/>
+          <mxGeometry y="80" width="200" height="170" as="geometry"/>
         </mxCell>
         <mxCell id="mDaE95jJYX9bUfQvgHxZ-52" value="forum_id" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#008cff;fontColor=#FFFFFF;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="320" y="350" width="160" height="540" as="geometry">
+          <mxGeometry x="300" y="350" width="200" height="540" as="geometry">
             <mxRectangle x="40" y="120" width="120" height="30" as="alternateBounds"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="mDaE95jJYX9bUfQvgHxZ-53" value="proposals&lt;br&gt;topProposals&lt;br&gt;replies" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;spacingLeft=2;" vertex="1" parent="mDaE95jJYX9bUfQvgHxZ-52">
-          <mxGeometry y="30" width="160" height="60" as="geometry"/>
+          <mxGeometry y="30" width="200" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="mDaE95jJYX9bUfQvgHxZ-54" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=12;html=0;" vertex="1" parent="mDaE95jJYX9bUfQvgHxZ-52">
-          <mxGeometry y="90" width="160" height="10" as="geometry"/>
+          <mxGeometry y="90" width="200" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="mDaE95jJYX9bUfQvgHxZ-55" value="topic_title&#xa;description&#xa;topic_mode&#xa;timestamp&#xa;organizer&#xa;forum_id&#xa;forum_title&#xa;forum_type&#xa;initial_mode&#xa;deadline&#xa;distributionVoice&#xa;choiceTopOption&#xa;editNickname&#xa;modeSwitchThreshold&#xa;modeSitchTo&#xa;modeSwitchVote&#xa;numberOfModeSwitch&#xa;multipleVote&#xa;participant&#xa;realtimeVoice&#xa;usedVoice&#xa;chatCount&#xa;userList&#xa;voteUserList" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=bottom;resizable=0;rotatable=0;part=1;horizontal=1;spacing=2;spacingBottom=3;" vertex="1" parent="mDaE95jJYX9bUfQvgHxZ-52">
-          <mxGeometry y="100" width="160" height="440" as="geometry"/>
+          <mxGeometry y="100" width="200" height="440" as="geometry"/>
         </mxCell>
         <mxCell id="mDaE95jJYX9bUfQvgHxZ-74" value="user_id" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#008cff;fontColor=#FFFFFF;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="300" y="930" width="200" height="220" as="geometry">
