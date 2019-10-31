@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-31T06:44:00.352Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="95nM_9eyr20r8wEdX4jC" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-31T07:00:07.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="fk3rQo_13QFY6M5TwQDF" version="12.1.9" type="github" pages="1">
   <diagram id="iVBrVuX85I9QnLTii-u7" name="Page-1">
-    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -24,7 +24,7 @@
         <mxCell id="mDaE95jJYX9bUfQvgHxZ-16" value="forum_title&#xa;description&#xa;forum_type&#xa;timestamp&#xa;organizer&#xa;realtimeVoice&#xa;randomIcon&#xa;topicCount&#xa;userList" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=bottom;resizable=0;rotatable=0;part=1;horizontal=1;spacingBottom=3;" parent="mDaE95jJYX9bUfQvgHxZ-15" vertex="1">
           <mxGeometry y="80" width="200" height="170" as="geometry"/>
         </mxCell>
-        <mxCell id="mDaE95jJYX9bUfQvgHxZ-52" value="forum_id" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#008cff;fontColor=#FFFFFF;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+        <mxCell id="mDaE95jJYX9bUfQvgHxZ-52" value="topic_id" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#008cff;fontColor=#FFFFFF;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="287.5" y="520" width="200" height="540" as="geometry">
             <mxRectangle x="40" y="120" width="120" height="30" as="alternateBounds"/>
           </mxGeometry>
@@ -236,9 +236,6 @@
         </mxCell>
         <mxCell id="mDaE95jJYX9bUfQvgHxZ-100" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=12;html=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="170" width="810" height="8" as="geometry"/>
-        </mxCell>
-        <mxCell id="jLMnZHACMJNPXxpO3vD9-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="640" y="50" width="80" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
